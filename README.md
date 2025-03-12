@@ -38,3 +38,13 @@ The Alpha 5 model represents a significant improvement over the original model:
   - Reduced confusion between similar classes
   - Faster inference time
   - More robust feature extraction
+    
+### Using EfficentNetB6 transfer model
+  - High Accuracy:
+The model achieved a validation accuracy of approximately 91-92% after 10 epochs.
+  - Strong F1-Scores:
+Demonstrated strong performance with a Macro F1-Score of approximately 0.9087 and a Weighted F1-Score of approximately 0.9178, indicating balanced precision and recall across all animal classes.
+  - Effective Transfer Learning:
+Utilized EfficientNetB6 pre-trained on ImageNet. The base model layers where frozen.
+  - Robust Classification:
+The classification report and confusion matrix reveal high precision and recall for most animal categories, with some minor variations.
