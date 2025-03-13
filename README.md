@@ -1,5 +1,6 @@
-# Animal Classification Model Original (Alpha_Final_3) vs (Alpha_5)
+# Animal Classification Model Original (Alpha_Final_3) vs (Alpha_6) and EfficentNetB6 (transfer learning)
 This repository contains an animal classification model that can identify 10 different animal classes from images.
+The deployed Alpha_6 model can be found at: https://huggingface.co/spaces/Corrrvo/AnimalClassificationCNN
 
 ## Model Evolution
 ### Original Model
